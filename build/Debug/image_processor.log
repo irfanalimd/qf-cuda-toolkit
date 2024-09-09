@@ -1,2 +1,106 @@
 2024-09-09 00:58:22 [INFO] Application started
 2024-09-09 00:58:22 [ERROR] Invalid command line arguments
+2024-09-09 01:31:59 [INFO] Application started
+2024-09-09 01:32:01 [INFO] Image processed: C:\projects\image_processing_library\data\input\bird.jpg -> C:\projects\image_processing_library\data\output\bird_output.jpg
+2024-09-09 01:32:01 [INFO] Application ended successfully
+2024-09-09 01:32:03 [INFO] Application started
+2024-09-09 01:32:03 [INFO] Image processed: C:\projects\image_processing_library\data\input\bird.jpg -> C:\projects\image_processing_library\data\output\bird_output.jpg
+2024-09-09 01:32:03 [INFO] Application ended successfully
+2024-09-09 01:32:08 [INFO] Application started
+2024-09-09 01:32:08 [INFO] Starting benchmarks for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:10 [INFO] Benchmark - Gaussian Blur: GPU=707.466000ms, CPU=788.146000ms, Speedup=1.114041x
+2024-09-09 01:32:10 [INFO] Benchmark - Edge Detection: GPU=1.761000ms, CPU=42.512000ms, Speedup=24.140829x
+2024-09-09 01:32:10 [INFO] Benchmark - Brightness/Contrast: GPU=7.860000ms, CPU=8.022000ms, Speedup=1.020611x
+2024-09-09 01:32:10 [INFO] Benchmark completed. Overall speedup: 1.169565x
+2024-09-09 01:32:10 [INFO] Benchmarks completed for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:10 [INFO] Application ended successfully
+2024-09-09 01:32:15 [INFO] Application started
+2024-09-09 01:32:15 [INFO] Starting benchmarks for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:16 [INFO] Benchmark - Gaussian Blur: GPU=589.877000ms, CPU=799.823000ms, Speedup=1.355915x
+2024-09-09 01:32:16 [INFO] Benchmark - Edge Detection: GPU=5.400000ms, CPU=51.344000ms, Speedup=9.508148x
+2024-09-09 01:32:16 [INFO] Benchmark - Brightness/Contrast: GPU=7.141000ms, CPU=8.494000ms, Speedup=1.189469x
+2024-09-09 01:32:16 [INFO] Benchmark completed. Overall speedup: 1.427017x
+2024-09-09 01:32:16 [INFO] Benchmarks completed for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:16 [INFO] Application ended successfully
+2024-09-09 01:32:19 [INFO] Application started
+2024-09-09 01:32:19 [INFO] Starting benchmarks for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:20 [INFO] Benchmark - Gaussian Blur: GPU=139.201000ms, CPU=786.774000ms, Speedup=5.652071x
+2024-09-09 01:32:20 [INFO] Benchmark - Edge Detection: GPU=2.145000ms, CPU=41.617000ms, Speedup=19.401865x
+2024-09-09 01:32:20 [INFO] Benchmark - Brightness/Contrast: GPU=2.059000ms, CPU=5.160000ms, Speedup=2.506071x
+2024-09-09 01:32:20 [INFO] Benchmark completed. Overall speedup: 5.812566x
+2024-09-09 01:32:20 [INFO] Benchmarks completed for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:20 [INFO] Application ended successfully
+2024-09-09 01:32:21 [INFO] Application started
+2024-09-09 01:32:21 [INFO] Starting benchmarks for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:22 [INFO] Benchmark - Gaussian Blur: GPU=77.846000ms, CPU=776.482000ms, Speedup=9.974591x
+2024-09-09 01:32:22 [INFO] Benchmark - Edge Detection: GPU=1.324000ms, CPU=41.918000ms, Speedup=31.660121x
+2024-09-09 01:32:22 [INFO] Benchmark - Brightness/Contrast: GPU=1.466000ms, CPU=5.373000ms, Speedup=3.665075x
+2024-09-09 01:32:22 [INFO] Benchmark completed. Overall speedup: 10.215946x
+2024-09-09 01:32:22 [INFO] Benchmarks completed for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:22 [INFO] Application ended successfully
+2024-09-09 01:32:23 [INFO] Application started
+2024-09-09 01:32:23 [INFO] Starting benchmarks for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:24 [INFO] Benchmark - Gaussian Blur: GPU=148.204000ms, CPU=782.390000ms, Speedup=5.279142x
+2024-09-09 01:32:24 [INFO] Benchmark - Edge Detection: GPU=1.779000ms, CPU=40.144000ms, Speedup=22.565486x
+2024-09-09 01:32:24 [INFO] Benchmark - Brightness/Contrast: GPU=1.641000ms, CPU=5.328000ms, Speedup=3.246801x
+2024-09-09 01:32:24 [INFO] Benchmark completed. Overall speedup: 5.459967x
+2024-09-09 01:32:24 [INFO] Benchmarks completed for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:24 [INFO] Application ended successfully
+2024-09-09 01:32:24 [INFO] Application started
+2024-09-09 01:32:24 [INFO] Starting benchmarks for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:25 [INFO] Benchmark - Gaussian Blur: GPU=144.320000ms, CPU=787.461000ms, Speedup=5.456354x
+2024-09-09 01:32:25 [INFO] Benchmark - Edge Detection: GPU=1.932000ms, CPU=40.434000ms, Speedup=20.928571x
+2024-09-09 01:32:25 [INFO] Benchmark - Brightness/Contrast: GPU=1.711000ms, CPU=5.405000ms, Speedup=3.158971x
+2024-09-09 01:32:25 [INFO] Benchmark completed. Overall speedup: 5.631813x
+2024-09-09 01:32:25 [INFO] Benchmarks completed for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:25 [INFO] Application ended successfully
+2024-09-09 01:32:26 [INFO] Application started
+2024-09-09 01:32:26 [INFO] Starting benchmarks for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:28 [INFO] Benchmark - Gaussian Blur: GPU=637.438000ms, CPU=794.665000ms, Speedup=1.246655x
+2024-09-09 01:32:28 [INFO] Benchmark - Edge Detection: GPU=1.898000ms, CPU=44.032000ms, Speedup=23.199157x
+2024-09-09 01:32:28 [INFO] Benchmark - Brightness/Contrast: GPU=1.497000ms, CPU=5.291000ms, Speedup=3.534402x
+2024-09-09 01:32:28 [INFO] Benchmark completed. Overall speedup: 1.317017x
+2024-09-09 01:32:28 [INFO] Benchmarks completed for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 01:32:28 [INFO] Application ended successfully
+2024-09-09 02:38:38 [INFO] Application started
+2024-09-09 02:38:38 [INFO] Starting benchmarks for: C:\projects\image_processing_library\data\input\bird.jpg
+2024-09-09 02:39:02 [INFO] Application started
+2024-09-09 02:39:02 [INFO] Starting benchmarks for: C:\projects\quantum_filter_cuda\data\input\bird.jpg
+2024-09-09 02:39:05 [INFO] Benchmark - Gaussian Blur: GPU=819.795000ms, CPU=1272.529000ms, Speedup=1.552253x
+2024-09-09 02:39:05 [INFO] Benchmark - Edge Detection: GPU=1.744000ms, CPU=90.259000ms, Speedup=51.754014x
+2024-09-09 02:39:05 [INFO] Benchmark - Brightness/Contrast: GPU=1.276000ms, CPU=8.797000ms, Speedup=6.894201x
+2024-09-09 02:39:05 [INFO] Benchmark completed. Overall speedup: 1.666942x
+2024-09-09 02:39:05 [INFO] Benchmarks completed for: C:\projects\quantum_filter_cuda\data\input\bird.jpg
+2024-09-09 02:39:05 [INFO] Application ended successfully
+2024-09-09 02:39:17 [INFO] Application started
+2024-09-09 02:39:17 [INFO] Starting benchmarks for: C:\projects\quantum_filter_cuda\data\input\bird.jpg
+2024-09-09 02:39:18 [INFO] Benchmark - Gaussian Blur: GPU=107.849000ms, CPU=1257.304000ms, Speedup=11.658003x
+2024-09-09 02:39:18 [INFO] Benchmark - Edge Detection: GPU=1.581000ms, CPU=66.256000ms, Speedup=41.907653x
+2024-09-09 02:39:18 [INFO] Benchmark - Brightness/Contrast: GPU=1.265000ms, CPU=8.571000ms, Speedup=6.775494x
+2024-09-09 02:39:18 [INFO] Benchmark completed. Overall speedup: 12.034247x
+2024-09-09 02:39:18 [INFO] Benchmarks completed for: C:\projects\quantum_filter_cuda\data\input\bird.jpg
+2024-09-09 02:39:18 [INFO] Application ended successfully
+2024-09-09 02:39:19 [INFO] Application started
+2024-09-09 02:39:19 [INFO] Starting benchmarks for: C:\projects\quantum_filter_cuda\data\input\bird.jpg
+2024-09-09 02:39:21 [INFO] Benchmark - Gaussian Blur: GPU=235.152000ms, CPU=1346.956000ms, Speedup=5.728023x
+2024-09-09 02:39:21 [INFO] Benchmark - Edge Detection: GPU=1.397000ms, CPU=65.270000ms, Speedup=46.721546x
+2024-09-09 02:39:21 [INFO] Benchmark - Brightness/Contrast: GPU=1.067000ms, CPU=8.505000ms, Speedup=7.970947x
+2024-09-09 02:39:21 [INFO] Benchmark completed. Overall speedup: 5.979105x
+2024-09-09 02:39:21 [INFO] Benchmarks completed for: C:\projects\quantum_filter_cuda\data\input\bird.jpg
+2024-09-09 02:39:21 [INFO] Application ended successfully
+2024-09-09 02:39:22 [INFO] Application started
+2024-09-09 02:39:22 [INFO] Starting benchmarks for: C:\projects\quantum_filter_cuda\data\input\bird.jpg
+2024-09-09 02:39:25 [INFO] Benchmark - Gaussian Blur: GPU=1181.472000ms, CPU=1269.710000ms, Speedup=1.074685x
+2024-09-09 02:39:25 [INFO] Benchmark - Edge Detection: GPU=1.324000ms, CPU=62.746000ms, Speedup=47.391239x
+2024-09-09 02:39:25 [INFO] Benchmark - Brightness/Contrast: GPU=1.279000ms, CPU=8.578000ms, Speedup=6.706802x
+2024-09-09 02:39:25 [INFO] Benchmark completed. Overall speedup: 1.132558x
+2024-09-09 02:39:25 [INFO] Benchmarks completed for: C:\projects\quantum_filter_cuda\data\input\bird.jpg
+2024-09-09 02:39:25 [INFO] Application ended successfully
+2024-09-09 02:39:26 [INFO] Application started
+2024-09-09 02:39:26 [INFO] Starting benchmarks for: C:\projects\quantum_filter_cuda\data\input\bird.jpg
+2024-09-09 02:39:28 [INFO] Benchmark - Gaussian Blur: GPU=130.882000ms, CPU=1254.420000ms, Speedup=9.584358x
+2024-09-09 02:39:28 [INFO] Benchmark - Edge Detection: GPU=1.537000ms, CPU=66.776000ms, Speedup=43.445673x
+2024-09-09 02:39:28 [INFO] Benchmark - Brightness/Contrast: GPU=1.396000ms, CPU=8.626000ms, Speedup=6.179083x
+2024-09-09 02:39:28 [INFO] Benchmark completed. Overall speedup: 9.937765x
+2024-09-09 02:39:28 [INFO] Benchmarks completed for: C:\projects\quantum_filter_cuda\data\input\bird.jpg
+2024-09-09 02:39:28 [INFO] Application ended successfully
