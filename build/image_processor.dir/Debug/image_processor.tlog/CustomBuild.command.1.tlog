@@ -1,0 +1,10 @@
+^C:\PROJECTS\IMAGE_PROCESSING_LIBRARY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/projects/image_processing_library -BC:/projects/image_processing_library/build --check-stamp-file C:/projects/image_processing_library/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

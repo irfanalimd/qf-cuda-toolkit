@@ -1,0 +1,10 @@
+^C:\PROJECTS\IMAGE_PROCESSING_LIBRARY\BUILD\CMAKEFILES\E7898FA5F5E3BFBA41711901AABD749C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/projects/image_processing_library -BC:/projects/image_processing_library/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/projects/image_processing_library/build/CUDAImageProcessing.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+C:/projects/image_processing_library/build/CMakeFiles/image_processor.dir
+C:/projects/image_processing_library/build/CMakeFiles/ALL_BUILD.dir
+C:/projects/image_processing_library/build/CMakeFiles/ZERO_CHECK.dir
