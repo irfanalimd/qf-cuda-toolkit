@@ -4,6 +4,8 @@
 
 This CUDA-based image processing library provides high-performance image manipulation tools leveraging GPU acceleration. It's designed for efficient processing of large images or batch processing tasks.
 
+![App Screenshot](https://github.com/irfanalimd/qf-cuda-toolkit/blob/main/benchmarks/compare.jpg)
+
 ## Features
 
 - GPU-accelerated image processing using CUDA
